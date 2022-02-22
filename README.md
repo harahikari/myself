@@ -3,6 +3,7 @@
 
 
 1.stp 和 mstp的区别是什么？（生成树跟多生成树的区别）
+
 https://www.cnblogs.com/rui517hua20/p/13600006.html
 
 2.我们常见的动态路由协议有哪些？
